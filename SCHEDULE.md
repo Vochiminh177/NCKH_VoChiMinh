@@ -2,7 +2,7 @@
 
 Thông tin thành viên (Họ tên - mssv - email)
 + Nhóm trưởng: Võ Chí Minh - 3121410325 - vochiminh177@gmail.com
-+ Lưu Hông Phúc - 
++ Lưu Hông Phúc - 3121410384 - luuphuc1368@gmail.com
 + Ngô Thanh Tân - 3121410442 - tongdongchang1@gmail.com
 + Đức Thành - 3119410392 - xducthanh@gmail.con
 
@@ -22,4 +22,4 @@ Kế hoạc dự kiến (7 Tuần)
 - Giai đoạn 5 : Chỉnh sửa và hoàn thiện báo cáo để đảm bảo tính chính xác và logic của nghiên cứu.
 
 Tổ chức công việc nhóm và phân công
-https://docs.google.com/spreadsheets/d/1FhmVGJO9K3gCfHTKsk2wvTr7wmrmB8H-2lVqEr0p58A/edit?gid=0#gid=0
+https://docs.google.com/spreadsheets/d/1FhmVGJO9K3gCfHTKsk2wvTr7wmrmB8H-2lVqEr0p58A/edit?usp=sharing
